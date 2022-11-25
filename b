@@ -8,7 +8,7 @@
 1 = Annie
 523 = Aphelios
 22 = Ashe
-136 = Aurelion Sol
+136 = AurelionSol
 268 = Azir
 432 = Bard
 200 = BelVeth
@@ -75,7 +75,7 @@
 90 = Malzahar
 57 = Maokai
 11 = MasterYi
-21 = Miss Fortune
+21 = MissFortune
 62 = Wukong
 82 = Mordekaiser
 25 = Morgana
